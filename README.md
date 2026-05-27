@@ -1,5 +1,3 @@
-<img width="800" height="480" alt="image" src="https://github.com/user-attachments/assets/6e8ca4fa-6a5d-4662-b578-5ee603a8a2d0" /># Project_EarthQ
-
 sutazukame8803の地震情報アプリです。
 このアプリは [P2P地震情報](https://api.p2pquake.net/) のAPIを使用して製作されています。APIを提供してくださっている皆様に深く感謝いたします。
 
