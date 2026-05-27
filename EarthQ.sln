@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthQ", "EarthQ.csproj", "{AC9BAF4B-0BB1-4386-A89B-EDA90712A373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9BAF4B-0BB1-4386-A89B-EDA90712A373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9BAF4B-0BB1-4386-A89B-EDA90712A373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9BAF4B-0BB1-4386-A89B-EDA90712A373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9BAF4B-0BB1-4386-A89B-EDA90712A373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0682367A-7B76-4FB1-A5D8-5110B68AF570}
+	EndGlobalSection
+EndGlobal
