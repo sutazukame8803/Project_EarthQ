@@ -1,0 +1,2 @@
+# Project_EarthQ
+sutazukame8803の地震情報アプリ
