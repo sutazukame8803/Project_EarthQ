@@ -15,7 +15,8 @@ sutazukame8803の地震情報アプリです。
 
 ## 注意
 このアプリケーションは正式リリースではないことをご留意ください。
-バグがありましたらDiscordまでご連絡ください。
-Discord:Run8803__
+バグがありましたらDiscordまたはGmailまでご連絡ください。
+Discord:Run8803__ アンダーバーは2つ
+Gmail:sutazukame1121@gmail.com
 ## ライセンス (License)
 MIT License
